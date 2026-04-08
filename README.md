@@ -354,3 +354,6 @@ You are a Nigerian tax expert AI assistant. Answer questions using ONLY the cont
 - [ ] Upgrade to paid Gemini API for faster responses
 - [ ] Support follow-up questions with richer conversation context
 - [ ] SaaS monetization layer
+---
+Built by **Philip Akintola** — 16 years old, Lagos, Nigeria 🇳🇬  
+Systems Engineering student at the University of Lagos.  can be accessed by : **[💬 Try it on Telegram →](https://t.me/NIJATAXAIBOT)**
